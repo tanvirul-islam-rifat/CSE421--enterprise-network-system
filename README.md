@@ -228,5 +228,5 @@ Static routes on 3 routers for 6+ subnets means 18+ route entries, all maintaine
 
 **Md. Tanvirul Islam Rifat**
 
-- **GitHub:** [@YourGitHubUsername](https://github.com/YourGitHubUsername)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedInProfile)
+* **GitHub:** [@tanvirul-islam-rifat](https://github.com/tanvirul-islam-rifat)
+* **LinkedIn:** [Tanvirul Islam Rifat](https://www.linkedin.com/in/tanvirul-islam-rifat)
